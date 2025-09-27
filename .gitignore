@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (don’t push big files)
+data/
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.pt
+*.model
+*.bin
